@@ -2,14 +2,14 @@
   "name": "fs-ast",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "dist/index.js",
+  "files": ["dist", "src"],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Anton Vinogradov <winogradovaa@gmail.com>",
   "license": "MIT",
-  "dependencies": {
-  },
+  "dependencies": {},
   "devDependencies": {
     "@commitlint/cli": "9.1.2",
     "@commitlint/config-conventional": "9.1.2",
