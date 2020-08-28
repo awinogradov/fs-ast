@@ -3,11 +3,18 @@
   "version": "1.0.0",
   "description": "",
   "main": "dist/index.js",
-  "files": ["dist", "src"],
+  "files": [
+    "dist",
+    "src"
+  ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Anton Vinogradov <winogradovaa@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:awinogradov/fs-ast.git"
+  },
   "license": "MIT",
   "dependencies": {},
   "devDependencies": {
